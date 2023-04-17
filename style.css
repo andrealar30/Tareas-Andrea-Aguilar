@@ -3,6 +3,9 @@ body{
     h1,h2 {
         font-family: 'Bad Script', 'Caveat', cursive;
     }
+    p {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
     table{
         text-align: center;
         border: 5px solid rgb(128, 31, 219);
