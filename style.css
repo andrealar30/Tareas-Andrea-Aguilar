@@ -3,4 +3,9 @@ body{
     h1,h2 {
         font-family: 'Bad Script', 'Caveat', cursive;
     }
-    
+    table{
+        text-align: center;
+        border: 5px solid rgb(128, 31, 219);
+    }
+    td, th {border: 2px solid magenta;
+    }
